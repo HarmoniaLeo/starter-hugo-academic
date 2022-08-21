@@ -68,6 +68,6 @@ highlight_name: true
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MSCtranscript.pdf" "newtab" >}}MSc transcripts{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}undergraduate transcripts{{< /staticref >}} and {{< staticref "uploads/demo_resume.pdf" "newtab" >}}certification of GPA{{< /staticref >}}. 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/undergradTranscript.pdf" "newtab" >}}undergraduate transcripts{{< /staticref >}} and {{< staticref "uploads/undergradGradingSys.pdf" "newtab" >}}certification of GPA{{< /staticref >}}. 
 
 {{< icon name="download" pack="fas" >}} Download my reference letter from my {{< staticref "uploads/2022.08.12.Bingde.LIU.PhD.Ref.pdf" "newtab" >}}MSc tutor{{< /staticref >}} and {{< staticref "uploads/demo_resume.pdf" "newtab" >}}undergraduate tutor{{< /staticref >}}. 
