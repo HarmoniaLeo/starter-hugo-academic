@@ -2,7 +2,7 @@
 title: Mancala
 summary: Mancala game and AI based on Minimax search & alpha-beta pruning and reinforcement learning.
 tags:
-  - Computer Vision
+  - Artificial Intelligence
 date: '2021-01-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
