@@ -1,12 +1,12 @@
 ---
-title: MFC QQ Bot
-summary: A chatbot framework of QQ (Chinese MSN) developed by MFC. 
+title: Optimization in a Nutshell
+summary: Code of blog series "Optimization in a Nutshell".
 tags:
-  - Internet
-date: '2019-01-19T00:00:00Z'
+  - Artificial Intelligence
+date: '2021-01-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/HarmoniaLeo/MFC-QQbot'
+external_link: 'https://github.com/HarmoniaLeo/optimization-in-a-nutshell'
 
 image:
   caption: 

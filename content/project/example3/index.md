@@ -1,12 +1,12 @@
 ---
-title: MFC QQ Bot
-summary: A chatbot framework of QQ (Chinese MSN) developed by MFC. 
+title: Filter Artist
+summary: Freely painting filters on audio spectrogram.
 tags:
-  - Internet
-date: '2019-01-19T00:00:00Z'
+  - Audio Processing
+date: '2021-01-07T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/HarmoniaLeo/MFC-QQbot'
+external_link: 'https://github.com/HarmoniaLeo/Filter-Artist'
 
 image:
   caption: 

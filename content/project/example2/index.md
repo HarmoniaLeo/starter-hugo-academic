@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: github
-    icon_pack: fab
-    name: Follow
-    url: https://github.com/HarmoniaLeo/pyAudioKits
+  # - icon: github
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://github.com/HarmoniaLeo/pyAudioKits
 url_code: ''
 url_pdf: ''
 url_slides: ''
