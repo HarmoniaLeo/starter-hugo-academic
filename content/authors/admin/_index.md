@@ -65,6 +65,9 @@ highlight_name: true
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}MSc transcripts{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}undergraduate transcripts{{< /staticref >}} and {{< staticref "uploads/demo_resume.pdf" "newtab" >}}certification of GPA{{< /staticref >}}. 
+
 {{< icon name="download" pack="fas" >}} Download my reference letter from my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}MSc tutor{{< /staticref >}} and {{< staticref "uploads/demo_resume.pdf" "newtab" >}}undergraduate tutor{{< /staticref >}}. 
