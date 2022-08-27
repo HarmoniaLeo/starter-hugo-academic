@@ -20,8 +20,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Data Science
-  - Online Learning
+  - Financial Market Analysis
   - Reinforcement Learning
+  - Online Learning
 
 # Education to show in About widget
 education:
@@ -64,7 +65,7 @@ highlight_name: true
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MSCtranscript.pdf" "newtab" >}}MSc transcripts{{< /staticref >}}.
 
