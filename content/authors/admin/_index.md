@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Industrial Engineering and Economics
       institution: Tokyo Institution of Technology, Japan.
-      year: 2023~2026
+      year: 2023~
     - course: MSc in Financial Technology with Data Science
       institution: University of Bristol, U.K.
       year: 2021~2022
