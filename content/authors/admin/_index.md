@@ -6,15 +6,15 @@ title: Bingde Liu
 superuser: true
 
 # Role/position/tagline
-role: MSc Student of Financial Technology with Data Science
+role: PhD Student of Industrial Engineering and Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Bristol
-    url: https://www.bristol.ac.uk/
+  - name: Tokyo Institution of Technology
+    url: https://www.titech.ac.jp/english
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest is AI4Finance.
 
 # Interests to show in About widget
 interests:
@@ -27,9 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Industrial Engineering and Economics
+      institution: Tokyo Institution of Technology, Japan.
+      year: 2023~2026
     - course: MSc in Financial Technology with Data Science
       institution: University of Bristol, U.K.
-      year: 2021~
+      year: 2021~2022
     - course: Bachelor of Communication Engineering
       institution: Wuhan University, China
       year: 2018~2022
