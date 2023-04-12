@@ -51,6 +51,9 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=0ZN_dGcAAAAJ&hl=en
+  - icon: linkedin
+  - icon_pack: fab
+  - link: https://www.linkedin.com/in/bingde-liu-522993269/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
