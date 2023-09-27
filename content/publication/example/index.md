@@ -1,33 +1,34 @@
 ---
-title: 'Learning the Trading Algorithm in Simulated Markets with Non-stationary Continuum Bandits'
+title: 'Nonstationary Continuum-Armed Bandit Strategies for Automated Trading in a Simulated Financial Market'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Bingde Liu
+  - John Cartlidge
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
+# author_notes:
+#  - 'Equal contribution'
 
-date: '2022-08-04T22:06:25Z'
+date: '2023-06-26T22:06:25Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-04T22:06:25Z'
+publishDate: '2023-09-18T22:06:25Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short: 
+publication: Proceedings of the 13th International Defence and Homeland Security Simulation Worskhop
+publication_short: DHSS 2023
 
-abstract: The basic Multi-Armed Bandits (MABs) problem is trying to maximize the rewards obtained from bandits with different unknown probability distributions of payoff for pulling different arms, given that only a finite number of attempts can be made. When studying trading algorithms in the market, we are looking at one of the most complex variants of MABs problems, namely the Non-stationary Continuum Bandits (NCBs) problem. The Bristol Stock Exchange (BSE) is a simple simulation of an electronic financial exchange based on a continuous double auction running via a limit order book. The market can be populated by automated trader agents with different trading algorithms. Within them, the PRSH algorithm embodies some basic ideas for solving NCBs problems. However, it faces the difficulty to adjust hyperparameters and adapt to changes in complex market conditions. We propose a new algorithm called PRB, which solves Continuum Bandits problem by Bayesian optimization, and solves Non-stationary Bandits problem by a novel “bandit-over-bandit” framework. With BSE, we use as many kinds of trader agents as possible to simulate the real market environment under two different market dynamics. We then examine the optimal hyperparameters of the PRSH algorithm and the PRB algorithm under different market dynamics respectively. Finally, by having trader agents using both algorithms trade in the market at the same time, we demonstrate that the PRB algorithm has better performance than the PRSH algorithm under both market dynamics. In particular, we perform rigorous hypothesis testing on all experimental results to ensure their correctness. 
+abstract: We approach the problem of designing an automated trading strategy that can consistently profit by adapting to changing market conditions. This challenge can be framed as a Nonstationary Continuum-Armed Bandit (NCAB) problem. To solve the NCAB problem, we propose PRBO, a novel trading algorithm that uses Bayesian optimization and a ``bandit-over-bandit'' framework to dynamically adjust strategy parameters in response to market conditions. We use Bristol Stock Exchange (BSE) to simulate financial markets containing heterogeneous populations of automated trading agents and compare PRBO with PRSH, a reference trading strategy that adapts strategy parameters through stochastic hill-climbing. Results show that PRBO generates significantly more profit than PRSH, despite having fewer hyperparameters to tune. The code for PRBO and performing experiments is available online open-source (this https URL).
 
 # Summary. An optional shortened abstract.
 summary: We propose a new algorithm called PRB, which solves Continuum Bandits problem by Bayesian optimization, and solves Non-stationary Bandits problem by a novel “bandit-over-bandit” framework.
@@ -38,12 +39,12 @@ tags: ['Multi-Armed Bandits', 'Market Simulation', 'Non-stationary bandits', 'Co
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Proceedings of the 13th  International Defense and Homeland Security Simulation Workshop DHSS
+  url: https://www.cal-tek.eu/proceedings/i3m/2023/dhss/
 
-url_pdf: 'https://arxiv.org/pdf/2208.02901.pdf'
-url_code: ''
+url_pdf: 'https://www.cal-tek.eu/proceedings/i3m/2023/dhss/001/pdf.pdf'
+url_code: 'https://github.com/HarmoniaLeo/PRZI-Bayesian-Optimisation'
 url_dataset: ''
 url_poster: ''
 url_project: ''
