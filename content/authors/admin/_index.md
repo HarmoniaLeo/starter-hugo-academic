@@ -68,13 +68,3 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/MSCtranscript.pdf" "newtab" >}}MSc transcripts{{< /staticref >}}.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/undergradTranscript.pdf" "newtab" >}}undergraduate transcripts{{< /staticref >}} and {{< staticref "uploads/undergradGradingSys.pdf" "newtab" >}}certification of GPA{{< /staticref >}}. 
-
-{{< icon name="download" pack="fas" >}} Download my reference letter from my {{< staticref "uploads/2022.08.12.Bingde.LIU.PhD.Ref.pdf" "newtab" >}}MSc tutor{{< /staticref >}} and {{< staticref "uploads/reference_letter_BingdeLiuYW.pdf" "newtab" >}}undergraduate tutor{{< /staticref >}}.  -->
