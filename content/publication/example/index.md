@@ -25,8 +25,8 @@ publishDate: '2023-09-18T22:06:25Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-# publication: Proceedings of the 13th International Defence and Homeland Security Simulation Worskhop
-# publication_short: DHSS 2023
+publication: Proceedings of the 13th International Defence and Homeland Security Simulation Worskhop
+publication_short: DHSS 2023
 
 abstract: We approach the problem of designing an automated trading strategy that can consistently profit by adapting to changing market conditions. This challenge can be framed as a Nonstationary Continuum-Armed Bandit (NCAB) problem. To solve the NCAB problem, we propose PRBO, a novel trading algorithm that uses Bayesian optimization and a ``bandit-over-bandit'' framework to dynamically adjust strategy parameters in response to market conditions. We use Bristol Stock Exchange (BSE) to simulate financial markets containing heterogeneous populations of automated trading agents and compare PRBO with PRSH, a reference trading strategy that adapts strategy parameters through stochastic hill-climbing. Results show that PRBO generates significantly more profit than PRSH, despite having fewer hyperparameters to tune. The code for PRBO and performing experiments is available online open-source (this https URL).
 
@@ -39,9 +39,9 @@ tags: ['Multi-Armed Bandits', 'Market Simulation', 'Non-stationary bandits', 'Co
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-- name: Proceedings of the 13th  International Defense and Homeland Security Simulation Workshop DHSS
-  url: https://www.cal-tek.eu/proceedings/i3m/2023/dhss/
+# links:
+# - name: Proceedings of the 13th  International Defense and Homeland Security Simulation Workshop DHSS
+#  url: https://www.cal-tek.eu/proceedings/i3m/2023/dhss/
 
 url_pdf: 'https://www.cal-tek.eu/proceedings/i3m/2023/dhss/001/pdf.pdf'
 url_code: 'https://github.com/HarmoniaLeo/PRZI-Bayesian-Optimisation'
